@@ -1,0 +1,8 @@
+local o = {
+  ["protrusion"] = 8.003891,
+  ["width"] = "512.159409",
+  ["height"] = 513.481231,
+  ["r_protrusion"] = -102.13558916895,
+}
+
+return o
